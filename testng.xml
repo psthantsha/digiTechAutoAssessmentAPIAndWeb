@@ -1,0 +1,11 @@
+<suite name = "suite">
+    <test name = "API Test">
+        <classes>
+            <class name="IDNumberValidation"></class>
+            <class name="AgeValidation"></class>
+            <class name="FullNameValidation"></class>
+            <class name="BankValidation"></class>
+            <class name="AccountNumberValidation"></class>
+        </classes>
+    </test>
+</suite>
