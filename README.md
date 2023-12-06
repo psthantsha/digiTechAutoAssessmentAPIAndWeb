@@ -1,7 +1,7 @@
 # ABSA
 # APIProject
 
-This is an assessment for absa CIB - Digital Tech - API Test Automation Role
+This is an assessment for ABSA CIB - Digital Tech - API Test Automation Role
 
 Framework: Reset-Assured with TestNG and Cucumber
 Maven project.
