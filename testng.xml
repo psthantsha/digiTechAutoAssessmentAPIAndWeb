@@ -1,11 +1,6 @@
-<suite name = "suite">
-    <test name = "API Test">
+<suite name = "API and Web Test Automation">
+    <test name = "API and Web Test Automation">
         <classes>
-            <class name="IDNumberValidation"></class>
-            <class name="AgeValidation"></class>
-            <class name="FullNameValidation"></class>
-            <class name="BankValidation"></class>
-            <class name="AccountNumberValidation"></class>
         </classes>
     </test>
 </suite>

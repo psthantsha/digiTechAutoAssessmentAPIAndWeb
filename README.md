@@ -1,24 +1,21 @@
-# MomentumAPIProject
+# ABSA
+# APIProject
 
-This is an assessment for Momentum - API Test Automation Role
+This is an assessment for absa CIB - Digital Tech - API Test Automation Role
 
-Framework: Reset-Assured with TestNG.
+Framework: Reset-Assured with TestNG and Cucumber
 Maven project.
 Pom file is used to load the dependencies.
-All the tests are sitting in src/test/java file location.
-Payloads are created using json file, and each Payload is being called into each test.
+All the tests are sitting in src/test/resources/features/api file location.
+Test annotations (Assert) are used to determine pass and fail criteria.
+
+# WEBPROJECT
+
+Framework: Cucumber with TestNG and POM
+Maven project.
+Pom file is used to load the dependencies.
+All the tests are sitting in src/test/resources/features/web file location.
 Test annotations (Assert) are used to determine pass and fail criteria.
 
 ## Getting Started with running the tests
-You can run the test using the testNG.xml file by right-clicking on it selecting Run...
-running the tests from the testNG.xml file will assist with generating the extent report
-
-Or you can run the test from inside the test class itself by right-clicking inside the class and selecting Run
-
-Another way is to use the terminal with the following command: mvn clean install
-
-
-```sh
-
-
-```
+You can run the test using the feature file or open a feature file and click run on scenario.
