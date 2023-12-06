@@ -6,7 +6,7 @@ This is an assessment for ABSA CIB - Digital Tech - API Test Automation Role
 Framework: Reset-Assured with TestNG and Cucumber.
 Maven project.
 Pom file is used to load the dependencies.
-All the tests are sitting in src/test/resources/features/api file location.
+All the tests are sitting in src/test/resources/features/ file location with api and web directories.
 Test annotations (Assert) are used to determine pass and fail criteria.
 
 # WEBPROJECT
